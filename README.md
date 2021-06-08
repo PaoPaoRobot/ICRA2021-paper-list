@@ -389,7 +389,7 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 | **Session** |Best Student Paper Award Session |
 | 9623 | Unified Multi-Modal Landmark Tracking for Tightly Coupled Lidar-Visual-Inertial Odometry |
 | 1154 | Unsupervised Learning of Lidar Features for Use in a Probabilistic Trajectory Estimator |
-| | Planning with Attitude |
+| 7517 | Planning with Attitude |
 | 8888 | Cascaded Filtering Using the Sigma Point Transformation |
 | **Session** |Motion Planning I |
 | 4017| Reactive Navigation in Crowds for Non-Holonomic Robots with Convex Bounding Shape |
