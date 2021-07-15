@@ -145,8 +145,8 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 |ParametricNet: 6DoF Pose Estimation Network for Parametric Shapes in Stacked Scenarios | 772|
 |Optimal Online Dispatch for High-Capacity Shared Autonomous Mobility-On-Demand Systems | 779|
 |An Improved Magnetic Spot Navigation for Replacing the Barcode Navigation in Automated Guided  Vehicles | 786|
-| **Session** TuJT22 : Automation: Machine Learning IModel-Based Reinforcement Learning with Provable Safety Guarantees Via Control Barrier  |  |
-|Functions | 792|
+| **Session** TuJT22 : Automation: Machine Learning I |  |
+|Model-Based Reinforcement Learning with Provable Safety Guarantees Via Control Barrier Functions | 792|
 |Continual Model-Based Reinforcement Learning with Hypernetworks | 799|
 |Reinforcement Learning Based Temporal Logic Control with Maximum Probabilistic Satisfaction | 806|
 |Solving Markov Decision Processes with Partial State Abstractions | 813|
